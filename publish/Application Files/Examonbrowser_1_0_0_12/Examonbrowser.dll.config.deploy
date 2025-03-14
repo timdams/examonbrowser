@@ -16,6 +16,9 @@
             <setting name="offsetImageCount" serializeAs="String">
                 <value>100</value>
             </setting>
+            <setting name="moviePath" serializeAs="String">
+                <value>onbekend</value>
+            </setting>
         </Examonbrowser.Properties.Settings>
     </userSettings>
 </configuration>
