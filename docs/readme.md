@@ -17,8 +17,6 @@ Snelstart
 5) Gebruik filters (alleen klembord, alleen processen, minimale tekstlengte) om ruis te verminderen.
 6) Genereer indien nodig een rapport via de knop Rapport generator.
 
-![Hoofdscherm](main.png)
-
 
 
 Overzicht van het hoofdscherm
